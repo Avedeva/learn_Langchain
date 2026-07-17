@@ -1,3 +1,4 @@
 langenv/
 .env
 Vector_dbs\chroma_db
+Vector_dbs\faiss_db
