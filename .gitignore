@@ -2,3 +2,4 @@ langenv/
 .env
 Vector_dbs\chroma_db
 Vector_dbs\my_faiss_db
+Retrieval\chroma_db
